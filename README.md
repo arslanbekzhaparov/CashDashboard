@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a **Cash Dashboard** built with React and styled-components. It provides a familiar and user-friendly interface, displaying available balances in a card-style component, recent transactions, and a cash request feature using a modal.
+This project is a **Cash Dashboard** built with React and styled-components.
 
 ## Live Demo
 
