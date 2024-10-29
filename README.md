@@ -45,7 +45,6 @@ The design was inspired by the About page of the TryBree website, focusing on th
 # Future Improvements
 
 - Inline Modal: Moving the cash request modal onto the main dashboard for better UX.
-- Backend Integration: Connecting the transactions with a backend API to persist data.
 - Component Reusability: The dashboard component is designed to be exportable and extendable for future feature updates.
 
 # License
