@@ -52,5 +52,3 @@ Component Reusability: The dashboard component is designed to be exportable and 
 This project is licensed under the MIT License.
 
 ---
-
-This version contains all the necessary sections, formatted correctly for **`README.md`**. You can now copy and paste it directly into your project!
